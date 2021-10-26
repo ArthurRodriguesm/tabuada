@@ -1,4 +1,4 @@
 # Tabuada
 
-- Ler número que usuario deseja para gerar tabuada
+- Ler número que usuario deseja 
 - Exibir a tabuada
